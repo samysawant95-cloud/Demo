@@ -1,0 +1,5 @@
+- [x] 4 slides of game images
+- [x] 2 randoms games with image, name, genre, number of times played (200 - 1000) & play button
+- [x] 5 rondom games with image, names & number of times played
+- [ ] 10 games with image & name with pagination
+- [ ] Change preloader image to globalonegaming
